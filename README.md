@@ -1,6 +1,10 @@
 # Scaling-up-multilingual-framing-analysis
 
-For finetuning,
+
+## Datasets: 
+Due to the size limit and the fact that they are google translations of the english MFC and SNFC, the multilingual MFC and SNFC datasets couldn't be uploaded.
+
+For finetuning bert-based models,
 
 ```
 python -u text_classification.py  \
