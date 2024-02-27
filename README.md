@@ -8,3 +8,12 @@ python -u text_classification.py  \
       --train_path 'data/crowdsourced_data/SNFC_en.csv'  \
       --test_path 'data/MFC/MFC_test_en.csv'  --output_filename 'put-your-filename'
 ```
+
+For LLM Prompting,
+
+```
+python prompting_mistral.py \
+--learning_type 'few_shot'  --input_file_path 'data/data_for_prompting.csv' \
+--out_file_name 'put_your_filename_here'
+
+```
