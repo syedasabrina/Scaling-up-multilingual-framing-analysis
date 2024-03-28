@@ -28,6 +28,7 @@ python prompting_mistral.py \
 
 ## Citation:
 
+```
 @inproceedings{akter-anastasopoulos-2024-framing,
     title = "A Study on Scaling up Multilingual Framing Analysis",
     author = "Akter, Syeda Sabrina and Anastasopoulos, Antonios",
@@ -39,3 +40,5 @@ python prompting_mistral.py \
     url = "",
     doi = ""
 }
+
+```
