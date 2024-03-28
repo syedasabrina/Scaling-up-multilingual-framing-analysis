@@ -25,3 +25,17 @@ python prompting_mistral.py \
 --out_file_name 'put_your_filename_here'
 
 ```
+
+## Citation:
+
+@inproceedings{akter-anastasopoulos-2024-framing,
+    title = "A Study on Scaling up Multilingual Framing Analysis",
+    author = "Akter, Syeda Sabrina and Anastasopoulos, Antonios",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "",
+    doi = ""
+}
