@@ -3,6 +3,12 @@
 ## Paper:
 to_be_added
 
+## Setup:
+In a python venv, run:
+
+```
+pip install -r requirements.txt
+```
 
 ## Code:
 For finetuning bert-based models,
