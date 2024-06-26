@@ -1,7 +1,7 @@
 # Scaling-up-multilingual-framing-analysis
 
 ## Paper:
-to_be_added
+https://aclanthology.org/2024.findings-naacl.260/
 
 ## Setup:
 In a python venv, run:
